@@ -2,8 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <article className="h-screen bg-slate-300">
-      <div className="mx-auto pb-8"></div>
+    <article className="place-content-center h-screen bg-slate-300">
       <div className="mx-auto max-w-sm">
         <div className="mr-8 mb-8 ml-8 rounded-xl bg-white p-4">
           <picture>
