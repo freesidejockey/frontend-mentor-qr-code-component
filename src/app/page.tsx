@@ -5,7 +5,7 @@ export default function Home() {
     <article className="h-screen bg-slate-300">
       <div className="mx-auto pb-8"></div>
       <div className="mx-auto max-w-sm">
-        <div className="mr-8 mb-8 ml-8 rounded-xl bg-red-50 p-4">
+        <div className="mr-8 mb-8 ml-8 rounded-xl bg-white p-4">
           <picture>
             <img
               className="rounded-xl"
