@@ -15,10 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### Screenshot
-
-![](./screenshot.jpeg)
-
 ### Links
 
 - [Live Site URL](https://frontend-mentor-qr-code-component-one-silk.vercel.app/)
@@ -35,10 +31,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Everything is a square. It has some margin (outside the border), some padding (inside the border), and a border itself (which can be rounded).
 - Centering divs is generally as simple as the `mx-auto`
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 
 ### Continued development
 
